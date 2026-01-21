@@ -63,9 +63,7 @@ A3IE/
 │  └─ step6_final_selection.md
 ├─ runs/
 │  ├─ 2026-01-20/
-│  │  ├─ news_raw/
 │  │  ├─ news.md
-│  │  ├─ news_clean.md
 │  │  ├─ industry_trend.md
 │  │  ├─ insight.md
 │  │  ├─ system_design.md
