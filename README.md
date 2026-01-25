@@ -61,15 +61,6 @@ A3IE/
 │  ├─ step4_system_ideas.md
 │  ├─ step5_top3_selection.md
 │  └─ step6_final_selection.md
-├─ runs/
-│  ├─ 2026-01-20/
-│  │  ├─ news.md
-│  │  ├─ industry_trend.md
-│  │  ├─ insight.md
-│  │  ├─ system_design.md
-│  │  ├─ candidate_idea.md
-│  │  └─ final_idea.md
-│  └─ YYYY-MM-DD/  # one folder per run
 └─ README.md
 ```
 
